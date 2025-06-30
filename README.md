@@ -8,3 +8,5 @@ I’m a passionate Laravel backend developer with 2+ years of hands-on experienc
 - 💬 Ask me about: Laravel, REST APIs, Database Design
 
 ---
+<img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Logo" width="48" height="48" />
+
