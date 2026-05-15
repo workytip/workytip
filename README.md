@@ -42,7 +42,7 @@ Laravel backend developer with 2+ years of professional experience specialising 
 
 
 ---
-- 🌐 Portfolio: https://workytip.github.io/Marwa-Abdullah-Portfolio/
+- 🌐 [Portfolio](https://workytip.github.io/Marwa-Abdullah-Portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marwa-abdullah-cs/)
 - ⚡ Projects: Jewelry Store Management SaaS (live in production), K8s CI/CD Blueprint (EKS + Terraform + Jenkins), Multi-Tenant Healthcare SaaS, HR Assessment System, Jumia Clone, Content Scheduler, Hafezon
 - 🔭 Currently working on: NFC/IoT integration for inventory stocktaking, scaling a live multi-tenant SaaS
