@@ -1,6 +1,6 @@
 # Hi, I'm Marwa Abdullah 👋
 
-I’m a passionate Laravel backend developer with 2+ years of hands-on experience in database design, REST APIs, and scalable web applications. I’ve built management systems from scratch, and I’m expanding my skill set with DevOps practices as a current intern at DEPI. My goal is to become a senior Laravel developer, lead projects, and mentor junior talent. I love the Laravel ecosystem and enjoy bridging backend with modern frontend technologies like ReactJS.
+Laravel backend developer with 2+ years of professional experience specialising in PHP, multi-tenant architecture, and RESTful APIs. I build production-grade systems end to end, from database design to deployment, with hands-on experience in DevOps tools like Docker, Nginx, GitHub Actions, and DigitalOcean. QA experience shaped how I think about edge cases and system reliability. My goal is to grow into a Senior Software Engineer who contributes to architecture, not just implementation.
 
 ---
 ## 🛠️ My Tech Stack
